@@ -1,0 +1,42 @@
+body
+{
+    
+    background-color:#009da8 ;
+}
+header
+{
+    background-color: #FAD7A0 ;
+    height: 50px;
+}
+#logo
+{
+    float: left;
+    margin-left: 50px;
+    max-height: 50px;
+}
+nav
+{
+    float: right;
+    margin-right: 50px;
+    line-height: 50px;
+}
+nav a{
+    padding: 15px;
+    text-decoration: none;
+}
+.col
+{
+    width: 1000px;
+    text-align: justify;
+    float:right;
+
+}
+
+.col h3
+{
+padding: 15px;
+color: #FAD7A0;
+min-width: 50px;
+border-radius: 20px;
+
+}
